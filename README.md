@@ -15,7 +15,6 @@ This project is a Student Result Management System built using the MERN (MongoDB
 - **Express.js**: Backend framework for handling HTTP requests.
 - **React.js**: Frontend framework for building the user interface.
 - **Node.js**: Server-side JavaScript runtime environment.
-- **JWT (JSON Web Tokens)**: For secure authentication and authorization.
 - **Bootstrap**: For styling the frontend components.
 
 ## Installation
