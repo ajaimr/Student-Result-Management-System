@@ -1,0 +1,28 @@
+.main{
+    margin-top: 100px;
+    width: 400px;
+    height: 400px;
+    /* background-color: rgb(143, 143, 140); */
+    
+    }
+    h1{
+        font-size:40px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color:rgb(84, 84, 81);
+        padding-top: 50px;
+    }
+    .navbar{
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    button{
+        width: 350px;
+        height: 40px;
+        margin-bottom: 20px;
+        margin: none;
+        border: none;
+        margin-left: 20px;
+    }
+    .container{
+        background-color: rgb(234, 223, 210);
+    }
